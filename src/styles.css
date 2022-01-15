@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 0 5px;
+}
+
+.my-list {
+  padding: 20px 0;
+}
